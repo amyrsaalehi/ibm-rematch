@@ -1,169 +1,54 @@
 {
   "posts": [
     {
+      "id": 1,
+      "title": "Exploring the Wonders of Nature",
+      "paragraph": "Nature is full of breathtaking landscapes, from majestic mountains to tranquil beaches. Join us as we embark on an adventure to explore the beauty of our planet."
+    },
+    {
+      "id": 2,
+      "title": "The Art of Culinary Delights",
+      "paragraph": "Indulge your taste buds with exquisite flavors and culinary creations from around the world. Discover the secrets of renowned chefs and learn how to create mouthwatering dishes."
+    },
+    {
+      "id": 3,
+      "title": "Mastering the Art of Photography",
+      "paragraph": "Capture moments that last a lifetime through the lens of a camera. From composition techniques to post-processing tips, delve into the world of photography and elevate your skills."
+    },
+    {
+      "id": 4,
+      "title": "Unveiling the Mysteries of the Universe",
+      "paragraph": "Journey through the cosmos and unravel the secrets of our vast universe. From black holes to distant galaxies, join us in exploring the wonders that lie beyond Earth."
+    },
+    {
+      "id": 5,
+      "title": "The Power of Mindfulness",
+      "paragraph": "Discover the transformative practice of mindfulness and cultivate inner peace in a fast-paced world. Learn techniques to reduce stress, increase focus, and find balance in your daily life."
+    },
+    {
+      "id": 6,
+      "title": "Embracing a Healthy Lifestyle",
+      "paragraph": "Explore the benefits of a balanced diet, regular exercise, and self-care routines. Discover tips for maintaining physical and mental well-being, and embark on a journey to a healthier you."
+    },
+    {
+      "id": 7,
+      "title": "The Magic of Fictional Worlds",
+      "paragraph": "Immerse yourself in captivating stories and embark on thrilling adventures through the pages of books. From fantasy realms to dystopian societies, let your imagination run wild."
+    },
+    {
+      "id": 8,
+      "title": "Exploring the Marvels of Technology",
+      "paragraph": "Stay up to date with the latest technological advancements that are shaping our world. Dive into topics like artificial intelligence, blockchain, and virtual reality, and uncover the future possibilities."
+    },
+    {
+      "id": 9,
+      "title": "A Journey Through Art History",
+      "paragraph": "Trace the evolution of art across different time periods and explore the works of renowned artists. From Renaissance classics to modern masterpieces, discover the rich tapestry of human creativity."
+    },
+    {
       "id": 10,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 12,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 13,
-      "title": "Title1",
-      "paragraph": "expressive card body content block. description inviting the user to take action on the card."
-    },
-    {
-      "id": 14,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 15,
-      "title": "T",
-      "paragraph": "used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem i"
-    },
-    {
-      "id": 16,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 17,
-      "title": "Title1",
-      "paragraph": "expressive card body content block. description inviting the user to take action on the card."
-    },
-    {
-      "id": 18,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 19,
-      "title": "T",
-      "paragraph": "used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem i"
-    },
-    {
-      "id": 20,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 21,
-      "title": "Title1",
-      "paragraph": "expressive card body content block. description inviting the user to take action on the card."
-    },
-    {
-      "id": 22,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 23,
-      "title": "T",
-      "paragraph": "used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem i"
-    },
-    {
-      "id": 24,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 25,
-      "title": "Title1",
-      "paragraph": "expressive card body content block. description inviting the user to take action on the card."
-    },
-    {
-      "id": 26,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 27,
-      "title": "T",
-      "paragraph": "used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem i"
-    },
-    {
-      "id": 28,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 30,
-      "title": "Title1",
-      "paragraph": "expressive card body content block. description inviting the user to take action on the card."
-    },
-    {
-      "id": 32,
-      "title": "Title",
-      "paragraph": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly"
-    },
-    {
-      "id": 33,
-      "title": "T",
-      "paragraph": "used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem i"
-    },
-    {
-      "id": 34,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "id": 35,
-      "title": "Test",
-      "paragraph": "um may be used as a placeholder before final copy is availab"
-    },
-    {
-      "title": "title 1",
-      "paragraph": "p 2",
-      "id": 36
-    },
-    {
-      "title": "amir",
-      "paragraph": "erfan",
-      "id": 37
-    },
-    {
-      "title": "amir2",
-      "paragraph": "erfan2",
-      "id": 38
-    },
-    {
-      "title": "amir3",
-      "paragraph": "erfan3",
-      "id": 39
-    },
-    {
-      "title": "title 10",
-      "paragraph": "prg 10",
-      "id": 40
-    },
-    {
-      "title": "asdasdas",
-      "paragraph": "dasdasdasd",
-      "id": 41
-    },
-    {
-      "title": "sdasdasd",
-      "paragraph": "asd",
-      "id": 42
-    },
-    {
-      "title": "dsadasd",
-      "paragraph": "asdasdasd",
-      "id": 43
-    },
-    {
-      "title": "title 10",
-      "paragraph": "para 1000",
-      "id": 44
-    },
-    {
-      "title": "erfan",
-      "paragraph": "amiraejdshadjks",
-      "id": 48
+      "title": "The Thrill of Adventure Sports",
+      "paragraph": "Experience adrenaline-pumping activities and embark on daring escapades in the great outdoors. From rock climbing to skydiving, unleash your inner adventurer and push your limits."
     }
   ]
 }
