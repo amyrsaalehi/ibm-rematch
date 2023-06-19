@@ -98,6 +98,18 @@ function App() {
     dispatch.PostModel.handleGetPosts();
   }, []);
 
+  useEffect(() => {
+    const handleFocus = () => {
+      dispatch.PostModel.setLoading(true);
+      dispatch.PostModel.handleGetPosts();
+    }
+    window.addEventListener('focus', handleFocus)
+
+    return () => {
+      window.removeEventListener('focus', handleFocus)
+    }
+  }, [])
+
   if (loading)
     return (
       <>
