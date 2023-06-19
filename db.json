@@ -41,14 +41,9 @@
       "paragraph": "Stay up to date with the latest technological advancements that are shaping our world. Dive into topics like artificial intelligence, blockchain, and virtual reality, and uncover the future possibilities."
     },
     {
-      "id": 9,
-      "title": "A Journey Through Art History",
-      "paragraph": "Trace the evolution of art across different time periods and explore the works of renowned artists. From Renaissance classics to modern masterpieces, discover the rich tapestry of human creativity."
-    },
-    {
-      "id": 10,
-      "title": "The Thrill of Adventure Sports",
-      "paragraph": "Experience adrenaline-pumping activities and embark on daring escapades in the great outdoors. From rock climbing to skydiving, unleash your inner adventurer and push your limits."
+      "title": "Exploring the Marvels of Technology",
+      "paragraph": "Stay up to date with the latest technological advancements that are shaping our world. Dive into topics like artificial intelligence, blockchain, and virtual reality, and uncover the future possibilities.",
+      "id": 9
     }
   ]
 }

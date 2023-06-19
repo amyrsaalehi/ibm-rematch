@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "server": "json-server --watch --delay 500 db.json"
+    "server": "json-server --watch --delay 1000 db.json"
   },
   "dependencies": {
     "@carbon/ibm-products": "^2.1.2",
